@@ -78,7 +78,7 @@ By utilizing steganography and ASCII character encoding, the system ensures that
 
 ---
 
-## 🔮 Future Scope (Optional)
+## 🔮 Future Scope 
 - Integrate message encryption before embedding
 - Support image-to-image hiding
 - Enhance performance for larger file sizes
